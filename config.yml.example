@@ -1,6 +1,6 @@
 # Database settings.
 database:
-  # the name of your JDBC driver
+  # the username of your JDBC driver
   driverClass: org.postgresql.Driver
   # the username
   user: admin
